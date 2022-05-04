@@ -1,7 +1,6 @@
 ### Olá, Eu sou Stevens 😁
 
 - 🔭 Hoje a procura de um estágio.
-- 🌱 Estudando Js e React js
 - 📫 Contate-me no email: Stevenchaves10@gmail.com
 - ⚡ Curiosidades: Experiência básica com Angular e Spring boot
 
