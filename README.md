@@ -2,7 +2,7 @@
 
 - 🔭 Hoje a procura de um estágio.
 - 📫 Contate-me no email: Stevenchaves10@gmail.com
-- ⚡ Curiosidades: Experiência básica com Angular e Spring boot
+- ⚡ Curiosidades: Experiência na criação de REST APIs utilizando Spring e MySQL e experiência básica com React.
 
 ##
 
