@@ -2,7 +2,11 @@
 
 - 🔭 Hoje a procura de um estágio.
 - 📫 Contate-me no email: Stevench10@outlook.com
-- ⚡ Curiosidades: Experiência na criação de REST APIs utilizando Spring e MySQL e experiência básica com React.
+- ⚡ Curiosidades: 
+  -  Experiência na criação de REST APIs utilizando Spring boot, junto com Spring data jpa, hibernate, lombok...
+  -  Experiência com MySQL
+  -  Estudando React
+  -  Estudando Node com Javascript e Typescript
 - ⚡ Frequentemente estudando para continuar evoluindo nas tecnologias.
 
 ##
