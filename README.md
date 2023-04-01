@@ -7,6 +7,8 @@
   -  Experiência com MySQL
   -  Estudando React
   -  Estudando Node com Javascript e Typescript
+  -  Pretendo estudar Docker
+  -  Pretendo estudar AWS
 - ⚡ Frequentemente estudando para continuar evoluindo nas tecnologias.
 
 ##
