@@ -5,8 +5,8 @@
 - ⚡ Curiosidades: 
   -  Experiência na criação de REST APIs utilizando Spring boot, junto com Spring data jpa, hibernate, lombok...
   -  Experiência com MySQL
-  -  Estudando React
-  -  Estudando Node com Javascript e Typescript
+  -  Experiência com React
+  -  Experiência com Node + Javascript/Typescript
   -  Pretendo estudar Docker
   -  Pretendo estudar AWS
 - ⚡ Frequentemente estudando para continuar evoluindo nas tecnologias.
