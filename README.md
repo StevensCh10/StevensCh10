@@ -1,6 +1,6 @@
 ### Olá, Eu sou Stevens 😁
 
-- 🔭 Hoje a procura de um estágio.
+- 🔭 Formado em Ciência da Computação pela Universidade Católica de Pernambuco.
 - 📫 Contate-me no email: Stevench10@outlook.com
 - ⚡ Curiosidades: 
   -  Experiência na criação de REST APIs utilizando Spring boot + java, junto com Spring data jpa, hibernate, JWT...
